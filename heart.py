@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import turtle
 import math
 import random
@@ -29,7 +29,6 @@ for i in range(120):
     t.color(random.choice(colors))
     t.goto(x, y)
 
-=======
 import turtle
 import math
 import random
@@ -60,5 +59,4 @@ for i in range(120):
     t.color(random.choice(colors))
     t.goto(x, y)
 
->>>>>>> 0e4bb51532c4b90a6642b869ce4b0b569bf86898
 turtle.done()
